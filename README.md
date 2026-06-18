@@ -95,8 +95,7 @@ Omnichannel ingestion from Web Portals or Telegram bots. The *Concierge* agent p
 
 **1. Clone & Configure**
 ```bash
-git clone ![https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git](https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git)
-cd SwarmCore-D.A.M.A.
+git clone https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git
 pip install -r requirements.txt
 ```
 Populate the `.env.example` file with your respective Cloud API keys and rename it to `.env`.
