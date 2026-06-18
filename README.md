@@ -95,7 +95,7 @@ Omnichannel ingestion from Web Portals or Telegram bots. The *Concierge* agent p
 
 **1. Clone & Configure**
 ```bash
-git clone [https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git](https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git)
+git clone https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git(https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git)
 cd SwarmCore-D.A.M.A.
 pip install -r requirements.txt
 ```
