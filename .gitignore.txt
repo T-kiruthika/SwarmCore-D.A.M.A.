@@ -1,0 +1,25 @@
+# Security & API Keys
+.env
+*.pem
+
+# Python Virtual Environments & Cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Middleware Logs & Temporary AI Memory
+logs/
+memory_archive/
+system_cache/
+proof_uploads/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Research Manuscripts (Failsafe to ensure papers are never pushed)
+*.docx
+*.rtf
+*manuscript*
