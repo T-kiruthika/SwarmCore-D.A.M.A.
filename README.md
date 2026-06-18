@@ -51,28 +51,28 @@ SwarmCore D.A.M.A. completely decouples multi-agent reasoning logic from physica
 ### 1. Centralized Administrative Hub & Cognitive Stream
 The master management terminal tracks the deployment state of active proxy ledger nodes while hosting a real-time **Cognitive Stream**. The `ORCHESTRATOR_EMISSION` engine flushes raw, step-by-step agentic logic maps—detailing policy criteria, math shield validations, and JSON diff patches—directly to system auditors for zero-"Black Box" operational transparency.
 
-![System Validation Architecture](images/System Validation Architecture.png)
+![System Validation Architecture](images/System%20Validation%20Architecture.png)
 
 ---
 
 ### 2. EduNexus Compliance Portal (Light-Domain UI)
 A clean, light-themed administrative interface built for statutory compliance registry management and data mutation transactions within educational ecosystems. It maps structural leave parameters and generates immediate visual state changes upon a validated pass or an automated policy breach containment.
 
-![Airlock Authorization State - Approved Request](images/Airlock Authorization State - Approved Request.png)
+![Airlock Authorization State - Approved Request](images/Airlock%20Authorization%20State%20-%20Approved%20Request.png)
 
 ---
 
 ### 3. NexusData Maintenance Terminal (Dark-Domain UI)
 An industrial, low-contrast dark-themed control center engineered explicitly for IT clusters, server uptime maintenance, and hardware tracking. The terminal executes secure state blocks, captures SLA warnings, and handles high-tier network overrides.
 
-![SLA Threshold Breach Enforcement - Declined Request](images/SLA Threshold Breach Enforcement - Declined Request.png)
+![SLA Threshold Breach Enforcement - Declined Request](images/SLA%20Threshold%20Breach%20Enforcement%20-%20Declined%20Request.png)
 
 ---
 
 ### 4. Telegram Human-in-the-Loop (HITL) Adjudication Node
 An interactive mobile gateway that connects administrators directly to the inner multi-agent layer. When critical policy contradictions occur, the monitor bypasses suppression filters to pipe immediate HTML alerts to stakeholders, appending inline mobile layout commands (` Approve` / ` Decline`) to resolve pending state blocks instantly without web-console dependency.
 
-![Mobile Chat HITL Incident Overrides](images/Mobile Chat HITL Incident Overrides.png)
+![Mobile Chat HITL Incident Overrides](images/Mobile%20Chat%20HITL%20Incident%20Overrides.png)
 
 ---
 
@@ -96,7 +96,7 @@ Omnichannel ingestion from Web Portals or Telegram bots. The *Concierge* agent p
 **1. Clone & Configure**
 ```bash
 git clone [https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git](https://github.com/T-kiruthika/SwarmCore-D.A.M.A..git)
-cd swarmcore-dama
+cd SwarmCore-D.A.M.A.
 pip install -r requirements.txt
 ```
 Populate the `.env.example` file with your respective Cloud API keys and rename it to `.env`.
